@@ -9,12 +9,9 @@ A bootable 16 bits space invaders game clone written integrally in assembly synt
 -> Run the output using qemu
 
 ## How to play:
-  A/D - menu navigation
-  
-  Space - select option
-  
-  A/D - game controll
-  
-  Space - shoot
+  ->A/D - menu navigation
+  ->Space - select option
+  ->A/D - game controll
+  ->Space - shoot
 
 
