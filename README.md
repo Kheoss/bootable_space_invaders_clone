@@ -1,4 +1,4 @@
-# bootable_space_invaders_clone
+# Bootable Space Invaders Clone
 A bootable 16 bits space invaders game clone written integrally in assembly syntax AT&amp;T
 
 ##Instructions:
